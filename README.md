@@ -1,5 +1,5 @@
 # Xylphone
-## What i did learn
+## What did i  learn
 
 * How to play sound using AVFoundation and AVAudioPlayer.
 * Understand Apple documentation and how to use StackOverflow.
